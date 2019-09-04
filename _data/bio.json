@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jeff(Yick Ching) Wong",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://jeff-yc-wong.github.io/images/20180401_114403 (1)",
+    "email": "wongy@hawaii.edu",
+    "phone": "808-729-8274",
+    "website": "https://jeff-yc-wong.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "wongy",
         "url": "http://github.com/changeme"
       },
       {
@@ -27,12 +27,12 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "Diamondust101",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "Diamondust101",
         "url": "http://instagram.com/changeme"
       }
     ]
