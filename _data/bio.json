@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "wongy",
-        "url": "http://github.com/changeme"
+        "username": "jeff-yc-wong",
+        "url": "http://github.com/jeff-yc-wong"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jeff Wong",
+        "url": "http://linkedin.com/in/jeff-yc-wong"
       },
       {
         "network": "twitter",
@@ -33,7 +33,7 @@
       {
         "network": "instagram",
         "username": "Diamondust101",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/Diamondust101"
       }
     ]
   },
