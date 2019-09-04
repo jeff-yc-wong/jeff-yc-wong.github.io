@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96818",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -28,7 +28,7 @@
       {
         "network": "twitter",
         "username": "Diamondust101",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/Diamondust101"
       },
       {
         "network": "instagram",
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Music",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "clarinet",
+        "bass clarinet"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Game Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -64,27 +64,24 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "WindowsOS",
+        "Unix",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2019)",
       "studyType": "B.S.",
       "startDate": "2018-08-24",
       "endDate": "Present",
@@ -95,19 +92,19 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UNIQLO Hawaii",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "A1 Sales Associate",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain store to an A rank, assist customers, and promote the UNIQLO ways",
+        "Simple apparel with a not-so-simple purpose: to make your life better."
       ]
-    },
+    }/*,
     {
-      "company": "UH Information Technology Services",
+      "company": "N/A",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
@@ -118,6 +115,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
+    */
   ],
   "volunteer": [
     {
