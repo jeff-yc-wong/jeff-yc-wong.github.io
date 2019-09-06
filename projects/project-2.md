@@ -9,7 +9,7 @@ date: 2018-08-08
 labels:
   - Retail
   - Business
-summary: An japanese mindset that is applied at UNIQLO which makes the company so successful
+summary: A japanese mindset that is applied at UNIQLO which makes the company so successful
 ---
 
 <img class="ui medium right floated rounded image" src="../images/uniqlo-store.jpg">
