@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Database.jpg
-title: Micromouse
+title: Database
 permalink: projects/Database
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-06
@@ -37,7 +37,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [Github](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at the [Github](https://github.com/jeff-yc-wong/ICS212/tree/master/Project2).
 
 
 
