@@ -1,16 +1,15 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Database.jpg
 title: Micromouse
-permalink: projects/micromouse
+permalink: projects/Database
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-04-06
 labels:
-  - Robotics
-  - Arduino
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Database
+summary: In ICS212, we were tasked with making a C++ program database that stored a person's account number, name and address.
 ---
 
 <div class="ui small rounded images">
