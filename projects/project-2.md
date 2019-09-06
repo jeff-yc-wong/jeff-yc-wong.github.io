@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/UNIQLO.jpg
 title: Zenin-Keiei Mindset
-permalink: projects/Zenin_Kei
+permalink: projects/zeninKeiei
 # All dates must be YYYY-MM-DD format!
-date: 2018-8-08
+date: 2018-08-08
 labels:
   - Retail
   - Business
