@@ -13,10 +13,10 @@ summary: In ICS212, we were tasked with making a C++ program database that store
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ICS212proj2.jpg">
-  <img class="ui image" src="../images/ICS212proj2(2).jpg">
-  <img class="ui image" src="../images/ICS212proj2(3).jpg">
-  <img class="ui image" src="../images/ICS212proj2(4).jpg">
+  <img class="ui image" src="../images/ICS212proj2.png>
+  <img class="ui image" src="../images/ICS212proj2(2).png">
+  <img class="ui image" src="../images/ICS212proj2(3).png">
+  <img class="ui image" src="../images/ICS212proj2(4).png">
 </div>
 
 Database was the second Project that was assigned to me in ICS212 at the Univeristy of Hawaii at Manoa. This project tasked us creating a database that we coded in C in C++, and added the ability to save all the records in the database on a text file. So not only do we have to change the way we take input and output in our original project, we also had to implement a linked list object that records all the record and writes it to a text file when the program exits.
