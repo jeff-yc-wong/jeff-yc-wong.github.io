@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "Jeff Wong",
         "url": "http://linkedin.com/in/jeff-yc-wong"
-      },
-      {
-        "network": "twitter",
-        "username": "Diamondust101",
-        "url": "http://twitter.com/Diamondust101"
-      },
-      {
-        "network": "instagram",
-        "username": "Diamondust101",
-        "url": "http://instagram.com/Diamondust101"
       }
     ]
   },
@@ -108,7 +98,7 @@
     {
       "organization": "Moanalua Lions Club",
       "website": "https://www.e-clubhouse.org/sites/honolulu_moanalua/",
-      "position": "Lion",
+      "position": "Member",
       "startDate": "2018-07-18",
       "endDate": "Present",
       "summary": "Serve the community in different service projects",
