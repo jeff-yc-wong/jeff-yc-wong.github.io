@@ -11,5 +11,5 @@ labels:
   - Homework
 ---
 
-<img class="ui image" src="../images/Javascript.png">
+<img class="ui image" src="../images/Javascript700.png">
 
