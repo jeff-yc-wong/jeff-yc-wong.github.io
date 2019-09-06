@@ -13,31 +13,21 @@ summary: In ICS212, we were tasked with making a C++ program database that store
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/ICS212proj2.jpg">
+  <img class="ui image" src="../images/ICS212proj2(2).jpg">
+  <img class="ui image" src="../images/ICS212proj2(3).jpg">
+  <img class="ui image" src="../images/ICS212proj2(4).jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Database was the second Project that was assigned to me in ICS212 at the Univeristy of Hawaii at Manoa. This project tasked us creating a database that we coded in C in C++, and added the ability to save all the records in the database on a text file. So not only do we have to change the way we take input and output in our original project, we also had to implement a linked list object that records all the record and writes it to a text file when the program exits.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+When I first began this project, I thought it was going to be easy because all I had to do was change the input and output functiond right? Oh god was I wrong, not only do I have to replace the input and output functions, I also had to format everything so that it would look the same as it was in C and this was especially hard since we were using the UNIX system so I had to manually press the down key to scroll through my code.
 
-Here is some code that illustrates how we read values from the line sensors:
+This Project taught me many different functions and ideas that comes with C++ that was absent in C such how C++ made it so much easier for object-oriented programing by adding the idea of classes and inheritance and support for polymorphism. From this project I also learned the differences betweeen C++ and Java such as it is much faster to run C++ code when compared to Java due to the fact that C++ is a native language which does not require a runtime environment like Java do. C++ also improved a lot from C such as including reference data types which made it much easier because you don't have to keep track of pointers!!! This project not only taught me about the C++ language, it also taught me the importance of creating detailed test cases and testing your program because minor bugs happens a lot when we are not careful, this project also taught me about how much work it is to format a user-friendly program that makes people want to use it.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+Overall this project was extremely fun and I learned a lot from this project such as how important program structure is, not only for the users but also the programmers because when you are in the working field, a lot of times projects are done in a group and if your code is not structured and is a buch of mess, your partner(s) are not going to understand your code and that just slow down the project pace. 
 
-You can learn more at the [Github](https://github.com/jeff-yc-wong/ICS212/tree/master/Project2).
+You can learn more at my [GitHub](https://github.com/jeff-yc-wong/ICS212/tree/master/Project2).
 
 
 
