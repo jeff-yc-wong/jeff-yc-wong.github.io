@@ -1,17 +1,15 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/UNIQLO.jpg
+title: Zenin-Keiei Mindset
+permalink: projects/Zenin_Kei
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-8-08
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Retail
+  - Business
+summary: An japanese mindset that is applied at UNIQLO which makes the company so successful
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
