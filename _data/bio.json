@@ -81,7 +81,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2018-08-24",
       "endDate": "Present",
@@ -106,15 +106,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Moanalua Lions Club",
+      "website": "https://www.e-clubhouse.org/sites/honolulu_moanalua/",
+      "position": "Lion",
+      "startDate": "2018-07-18",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Serve the community in different service projects",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Participated in the Island Style Breakfast that is held yearly",
+        "Participated in the Prince Lot Hula Festival"
       ]
     },
     {
@@ -133,10 +133,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Outstanding Musician Award",
+      "date": "2014",
+      "awarder": "Moanalua High School",
+      "summary": "Scholarships awarded to student who exhibit diligent in practicing and shown excellency in musicianship"
     },
     {
       "title": "First place",
