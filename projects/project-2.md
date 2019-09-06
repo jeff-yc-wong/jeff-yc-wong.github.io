@@ -20,4 +20,4 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Learn more about UNIQLO at: <a href="https://www.uniqlo.com/us/en/company/about-uniqlo-us.html"><i class="large icon" src="../images/uniqlo-store.jpg"></i>UNIQLO/about-us</a>
+Learn more about UNIQLO at: [UNIQLO/about-us](https://www.uniqlo.com/us/en/company/about-uniqlo-us.html).
