@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/music.jpg
+image: images/Music.jpg
 title: Cotton
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
@@ -9,14 +9,14 @@ date: 2018-06-20
 labels:
   - MuseScore
   - Music Theory
-summary: A clarinet concerto that I composed in the sonata form in high school.
+summary: A clarinet concerto accompained by piano that me and my partner composed in sonata form in high school.
 ---
 
 <div class="ui small rounded images">
+  <img class="ui image" src="../images/MuseScore.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-001.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-002.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-003.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
 
