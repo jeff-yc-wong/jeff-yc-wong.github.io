@@ -13,4 +13,4 @@ labels:
 
 <img class="ui image" src="../images/Javascript700.png">
 
-<b>When I first heard of Javascript, I thought it was going to be similar to Java.</b> I have never coded in javascript before and when I heard that we will be learning Javascript in ICS314, I was very excited for I will be adding a new programming language into my 
+<b>When I first heard of Javascript, I thought it was going to be similar to Java.</b> I have never coded in javascript before and when I heard that we will be learning Javascript in ICS314, I was very excited for I will be adding a new programming language into my arsenal of programming languages which was quite unimpressive(I only knew 3 langugaes). 
