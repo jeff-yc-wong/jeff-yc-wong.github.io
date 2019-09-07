@@ -13,13 +13,14 @@ summary: A clarinet concerto accompained by piano that me and my partner compose
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/MuseScore.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-001.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-002.jpg">
   <img class="ui image" src="../images/Clarinet Concertino in Eb Major-page-003.jpg">
 </div>
 
+This was my final project for my Music Theory class in high school. My partner(Kammi) and I was tasked with composing a piece on Musescore, a free to download composing program, that is based on the topic that we researched in our last project, which in this case, I did my research on the topic of concerto while Kammi did her research on the sonata form which fits really well with the form of a concerto. Since I played the clarinet, I really wanted to compose a clarinet concerto and this was the result from it. I wasn't really what I hoped it would be but I am proud because in the end I created this music. Here is what the score is like in the MuseScore environment:
 
+<img class="ui image" src="../images/MuseScore.jpg">
 
 
 <hr>
