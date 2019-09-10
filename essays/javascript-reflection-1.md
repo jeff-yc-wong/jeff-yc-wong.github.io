@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Javascript Reflection 1
+title: ICS314???? JAVASCRIPT???
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
