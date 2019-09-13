@@ -15,5 +15,5 @@ From the reading of Eric Raymond's "<a href = "http://www.catb.org/esr/faqs/smar
   
   To demonstrate the differences between a "smart" question and a not so smart one, I have found two different example on <a href= "https://stackoverflow.com">Stack Overflow</a>:
   
-  <a href= "https://stackoverflow.com/questions/57920268/vb-net-web-application-with-webform-page-add-webapi-2-2"><img class="ui image" src="../images/Annotation 2019-09-12 225856.jpg"></a>
+  <a href= "https://stackoverflow.com/questions/57920268/vb-net-web-application-with-webform-page-add-webapi-2-2"><img class="ui image" src="../images/Annotation 2019-09-12 225856.jpg" height= 300px></a>
 
