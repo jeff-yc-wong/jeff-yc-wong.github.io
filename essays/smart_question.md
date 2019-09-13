@@ -9,7 +9,6 @@ labels:
   - Learning
   - ICS314
   - Homework
-  -
 ---
 
 From the reading of Eric Raymond's "<a href = "http://www.catb.org/esr/faqs/smart-questions.html">How To ask questions the smart way<a>", 
