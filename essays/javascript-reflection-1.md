@@ -9,7 +9,7 @@ labels:
   - Learning
   - ICS314
   - Homework
-  -Javascript
+  - Javascript
 ---
 
 <img class="ui image" src="../images/Javascript700.png">
