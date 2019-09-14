@@ -11,7 +11,7 @@ labels:
   - Homework
 ---
 
-<img class="ui image" length= 230 src= "https://static.rcwilley.com/blog/34/8212/Reaching-Your-Goals.jpg">
+<img class="ui image" height= "230" src= "https://static.rcwilley.com/blog/34/8212/Reaching-Your-Goals.jpg">
 
 <b>Be a creator/developer and not just a user</b>, this was something that I have always aspired to achieve even as a kid. I was born as a kid who loved to tinker with electronics(.... and sometimes breaking them in the process) and puzzles, I loved how technology was changing and connecting the world and growing up seeing people like Bill Gates and Steve Jobs on TV, I was inspired and it led me to want to create technologies that change the world too and that is what led me down to the path of Computer Science and Software Engineering.
 
