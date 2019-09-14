@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: 
+title: A Goal Coming True
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
