@@ -15,9 +15,9 @@ Coding standards, coding styles, coding coventions are all words to represent a 
 
 To understand the importance of coding using coding standards we must imagine what would happen if coding standards were not applied, In this following example:
 
-<img class="ui image" src="../images/Bad Code.jpg" height=360px>
+<img class="ui image" src="../images/Bad Code.jpg" height="360">
 
 You can see that this block of code is already pretty unreadable, now imagine 100,000 lines of code that is the same as this one blob of code, first it would be extremely hard to debug your code since you would not be able to pinpoint a certain line of code to find the bug because there are lines of code that are bunched up together, secondly if you were in a collaborative setting, it would be virtually impossible for another person to read and understand what's going on since it looks like some blob of code mushed together, in contrast the following image shows an example of neat, quality code that is easy to understand:
 
-<img class="ui image" src="../images/Good_Code.jpg" height=360px>
+<img class="ui image" src="../images/Good_Code.jpg" height="360">
 
