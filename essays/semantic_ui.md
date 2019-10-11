@@ -13,7 +13,7 @@ labels:
   - Homework
 ---
 
-<img class="ui image" src="../images/images.jpg>
+<img class="ui image" src="../images/images.jpg">
 
 <h1> Even Websites need makeup sometimes</h1>
  Aren't you sick of a boring plain HTML website, well Semantic UI is here to save the day? Semantic UI is much like makeup in the way that helps to make plain old boring HTML website to something beautiful and presentable (I am not saying that there aren't any people who look beautiful and presentable without makeup just in case if I offended anyone then I am truly sorry). I am just going to throw this out there, but I really hated learning Semantic UI at the start, I felt that it was extremely complicated and stressful especially when things inside a container can sometimes go outside of a container (How does that even work?). Semantic UI was very confusing and stressful at first especially when we learned in around a week when there is so much information to be absorbed but after some practicing, I actually enjoyed Semantic UI and is glad how much easier it makes thing when I realized how hard it would be to create all those user interfaces just using HTML and CSS.
