@@ -24,6 +24,7 @@ labels:
 <h2> What is Semantic UI?<h2>
 <p> 
 Semantic UI is a CSS framework, it's basically a library of pre-written CSS classes that helps to make your life easier, the main attraction of Semantic UI is in its name, this framework utilize using the semantics of the english language, so if you want to make  a menu bar you can just type the css class as "ui menu" a class name that is simple and easy to understand. Unfortunately, due to it having a small community of users, it's sometimes hard to find solution to your problem online, for example  if you look up Sematic UI on <a href="https://stackoverflow.com">Stack Overflow</a>, there is around 500 results compared to the 96,279 results found if you were to search for <a href="https://getbootstrap.com">Twitter Bootstrap</a>, a more popular UI framework, but I believe as Semantic UI improves its framework, that it will one day become a really popular framework because of how easy it would be for people to inspect each other webpages due to the semantic syntax that Semantic UI brings.
+</p>
   
 <h2>It takes time to learn how to put on makeup</h2>
 <p>
