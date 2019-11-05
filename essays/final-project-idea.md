@@ -30,3 +30,8 @@ Authors: Jeff Wong and Arslan Rakhmankulov
 7. Profile Page/Your Event Page
 8. Delete Event Page
 9. Not Found Page
+10. Student Run Evnet Page
+# Case Ideas
+1. Home Page shows upcoming events happening at UH Manoa
+2. Organizations can create a profile and create events that will be listed in the List Event Page
+3. Students can create a profile and can also create events, but it will show up on the student run event page, students can also chooses to participate and rsvp to events or purchase tickets for events if wanted.
