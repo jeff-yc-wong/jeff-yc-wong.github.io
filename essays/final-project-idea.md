@@ -22,22 +22,22 @@ Authors: Jeff Wong and Arslan Rakhmankulov
           
 ## Mockup Page Ideas
 1. Landing Page
-2. Create Event Page
-3. List Event Page
-4. Sign In Page
-5. Sign Out Page
-6. Categories Page
-7. Profile Page/Your Event Page
-8. Delete Event Page
-9. Not Found Page
-10. Student Run Evnet Page
+1. Create Event Page
+1. List Event Page
+1. Sign In Page
+1. Sign Out Page
+1. Categories Page
+1. Profile Page/Your Event Page
+1. Delete Event Page
+1. Not Found Page
+1. Student Run Evnet Page
 
 ## Case Ideas
-1. Home Page shows upcoming events happening at UH Manoa
+2. Home Page shows upcoming events happening at UH Manoa
 2. Organizations can create a profile and create events that will be listed in the List Event Page
-3. Students can create a profile and can also create events, but it will show up on the student run event page, students can also chooses to participate and rsvp to events or purchase tickets for events if wanted.
+2. Students can create a profile and can also create events, but it will show up on the student run event page, students can also chooses to participate and rsvp to events or purchase tickets for events if wanted.
 
 ## Beyond the Basics
-1. Uses Paypal to implement tickets purchasing services
-2. Reminder/Notification when events are coming up
+3. Uses Paypal to implement tickets purchasing services
+3. Reminder/Notification when events are coming up
 3. 
