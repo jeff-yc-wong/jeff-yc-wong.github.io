@@ -8,6 +8,10 @@ labels:
   - Meteor
 ---
 Authors: Jeff Wong and Arslan Rakhmankulov
+
+## Idea
+UH Manoa's own Eventbrite
+
 ## Overview
 
 <p>
@@ -40,4 +44,4 @@ Authors: Jeff Wong and Arslan Rakhmankulov
 ## Beyond the Basics
 3. Uses Paypal to implement tickets purchasing services
 3. Reminder/Notification when events are coming up
-3. 
+3. Sends a confirmation email when rsvp for an event
