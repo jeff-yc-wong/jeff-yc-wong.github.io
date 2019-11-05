@@ -44,4 +44,4 @@ UH Manoa's own Eventbrite
 ## Beyond the Basics
 3. Uses Paypal to implement tickets purchasing services
 3. Reminder/Notification when events are coming up
-3. Sends a confirmation email when rsvp for an event
+3. Sends a confirmation email when a user rsvp for an event
