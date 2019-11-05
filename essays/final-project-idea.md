@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 Authors: Jeff Wong and Arslan Rakhmankulov
-# Overview
+## Overview
 
 <p>
   <strong>Problem:</strong> There are too many events from different communites that goes on at UH and there are no centralize area for student 
@@ -20,7 +20,7 @@ Authors: Jeff Wong and Arslan Rakhmankulov
           allow them to sign up or purchase a ticket for the event if it's required.
 </p>          
           
-# Mockup Page Ideas
+## Mockup Page Ideas
 1. Landing Page
 2. Create Event Page
 3. List Event Page
@@ -31,7 +31,13 @@ Authors: Jeff Wong and Arslan Rakhmankulov
 8. Delete Event Page
 9. Not Found Page
 10. Student Run Evnet Page
-# Case Ideas
+
+## Case Ideas
 1. Home Page shows upcoming events happening at UH Manoa
 2. Organizations can create a profile and create events that will be listed in the List Event Page
 3. Students can create a profile and can also create events, but it will show up on the student run event page, students can also chooses to participate and rsvp to events or purchase tickets for events if wanted.
+
+## Beyond the Basics
+1. Uses Paypal to implement tickets purchasing services
+2. Reminder/Notification when events are coming up
+3. 
