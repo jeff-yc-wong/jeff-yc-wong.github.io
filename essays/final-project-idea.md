@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-
+Authors: Jeff Wong and Arslan Rakhmankulov
 # Overview
 
 <p>
