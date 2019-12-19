@@ -10,7 +10,6 @@ labels:
   - Semantic UI
   - HTML5
   - CSS
-  - Homework
 ---
 <p>
 <img style="width: 700px; height: 300px" class="ui image" src="../images/images.jpg">

@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Goals
   - ICS314
-  - Homework
 ---
 
 <img class="ui image" src="../images/Reaching-Your-Goals.jpg">

@@ -8,7 +8,6 @@ labels:
   - Software Engineering
   - Learning
   - ICS314
-  - Homework
   - Javascript
 ---
 
