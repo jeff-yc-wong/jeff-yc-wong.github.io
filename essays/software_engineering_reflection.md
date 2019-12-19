@@ -1,6 +1,7 @@
 ---
 layout: essay
-type: Every ending brings a new beginning
+type: essay
+title: Every ending brings a new beginning
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:
@@ -11,7 +12,7 @@ labels:
 
 <img class="ui image" src="../images/Journey.jpeg">
 
-
+# 
 
 
 
