@@ -15,6 +15,7 @@ labels:
   - ICS 314
 summary: This is my final project that I did with my group for ICS 314 to provide UH students with a platform for exchanging books
 ---
+<img class="ui medium right floated rounded image" src="../images/tx-landing.png" />
 
 TextXchange is the web application my team and I build using Meteor, Semantic UI, JavaScript and React which are all frameworks/languages we learned in ICS 314. This web application strive to provide a user-friendly experience for UH system's student to purchase or sell textbooks that they use for class.
 
