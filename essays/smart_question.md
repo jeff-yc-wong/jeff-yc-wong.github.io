@@ -7,7 +7,7 @@ date: 2019-09-12
 labels:
   - Software Engineering
   - Learning
-  - ICS314
+  - ICS 314
 ---
 
 From the reading of Eric Raymond's "<a href = "http://www.catb.org/esr/faqs/smart-questions.html">How To ask questions the smart way</a>", I learned about how important it is to format your questions in a smart way because it is true that there are no dumb questions but it depends on how you ask it, I learned that the way you format your question should show that you have done some extensive searches before asking the question, provide explicit detail in what you want and the place that the error is occurring when asking your question and that you are sincere in asking your question and make the question as easiest as possible for the readers/hackers to understand. From the reading, I also learned that  formating your question correctly is not the only important aspect of asking a smart question, but it also depends on where you ask it, when asking questions, you must make sure that u are asking the question on the related channel/forum so that your question can be properly answered.
@@ -26,3 +26,5 @@ To demonstrate the differences between a "smart" question and a not as smart one
 
 Overall, I learned that formating a question is really important in helping you get the answer that you need and not just some useless answer and that sometimes you might even find the answer to your question while formatting your question which then you won't even need to ask someone for help. Reading the requirement of asking a "smart" question helped me to really think before I ask which would definitely help in my future career because employers don't want someone who just consistently ask questions without trying to solve it first themselves. I also believe that by always trying to solve a problem first by myself will help me become a self-directed learner and I will learn faster this way because I am slowly absorbing the things that I find while searching for a solution to my question and even though they might not be the answers that I am looking for, it might still help in future problems which will help me become a more efficient programmer and one that learns at tremendous rate.
 
+<h2> Update (As of 12/18/29) </h2>
+After finishing ICS 314, this was definitely one of the hardest concept to master because I feel that as a Computer Science major, one of my biggest challenge is to convey my thoughts in idea into words that people understand, and one of the steps of asking a smart question is to provide my own thoughts in detail so that people can understand my problem, so that they can help me troubleshoot or find the bug in my program/solution. My goal for this is to ask more smart question in the near future.

@@ -6,7 +6,7 @@ title: The Makeup for a website
 date: 2019-10-10
 labels:
   - Software Engineering
-  - ICS314
+  - ICS 314
   - Semantic UI
   - HTML5
   - CSS
@@ -32,5 +32,8 @@ After learning Semantic UI from Pluralsight, I was shown what amazing website I 
 
 <h2>Slowly getting better</h2>
 <p>
-Although learning Semantic UI was challenging at first, after some practicing by completing the Island Snow and Your choice WOD, I am slowly becoming better at creating a website and hopefully I will continue getting better, and I am glad that this was the framework thay we chose to learn because I think that the simple syntax that it offers really helped to make the learning experience easier and more enjoyable.
+Although learning Semantic UI was challenging at first, after some practicing by completing the Island Snow and Your choice WOD, I am slowly becoming better at creating a website and hopefully I will continue getting better, and I am glad that this was the framework that we chose to learn because I think that the simple syntax that it offers really helped to make the learning experience easier and more enjoyable.
 </p> 
+
+<h2> Update (As of 12/18/29) </h2>
+After finishing ICS 314, I feel that I now have a solid foundation on the usage of the Semantic Ui framework and now hope to start exploring other web UI framework such as TwitterBootstrap.

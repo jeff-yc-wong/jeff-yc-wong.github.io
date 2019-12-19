@@ -7,7 +7,7 @@ date: 2019-09-06
 labels:
   - Software Engineering
   - Learning
-  - ICS314
+  - ICS 314
   - Javascript
 ---
 
@@ -23,3 +23,6 @@ From a software engineering perspective, I feel that Javascript is a great langu
 
 # My thoughts on Athletic Software Engineering and the WODs
 I think that the idea of Athletic Software Engineering is great, although WODs is stressful at times, it prepares us for what it is like when we are looking for work, in which we will be interviewed and be given problems that we must solve while time is of the essence and we will be 10 even 20 times more nervous so doing these WODs will help us acclimate to this kind of environment so that we are better prepared in interviews or maybe even competitions. Also being under a time constraint means that you are more prone to making mistakes which you can learn from and by practicing a WOD multiple times, it can help to eliminate making the same mistakes in future codes. Overall, I feel that although WODs are stressful right now, I feel that once I get used to being in these stressful situations, it will help prepare me for my future career in the working fields.
+
+<h2> Update (As of 12/18/29) </h2>
+After finishing ICS 314, I feel that I am now comfortable in a WOD-like environment and is now decently proficient at functional programming using JavaScript, hope to one day see functional programming be a big thing.

@@ -7,7 +7,7 @@ date: 2019-12-18
 labels:
   - Software Engineering
   - Goals
-  - ICS314
+  - ICS 314
 ---
 
 <img class="ui image" src="../images/Journey.jpeg">
