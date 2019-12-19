@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/textXchange-logo.png
 title: TextXchange
-permalink: projects/cotton
+permalink: projects/textXchange
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-18
 labels:

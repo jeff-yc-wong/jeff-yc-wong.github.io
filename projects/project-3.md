@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Music.jpg
 title: Clarinet Concertino in Eb major
-permalink: projects/cotton
+permalink: projects/music
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-20
 labels:
