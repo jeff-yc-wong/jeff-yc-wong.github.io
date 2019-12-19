@@ -68,7 +68,9 @@
         "Javascript",
         "Meteor",
         "React",
-        "Semantic UI"
+        "Semantic UI",
+        "MongoDB",
+        "SQL"
       ]
     },
     {
@@ -79,7 +81,8 @@
         "Unix",
         "Git/GitHub",
         "g++",
-        "InteliJ IDEA"
+        "InteliJ IDEA",
+        "Agile Project Management"
       ]
     }
   ],
