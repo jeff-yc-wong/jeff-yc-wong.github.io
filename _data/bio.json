@@ -44,6 +44,16 @@
       "name": "Artificial Intelligence",
       "keywords": [
       ]
+    },
+    {
+      "name": "Education",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
     }
   ],
   "skills": [
@@ -53,8 +63,12 @@
       "keywords": [
         "C",
         "C++",
+        "CSS/HTML",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Meteor",
+        "React",
+        "Semantic UI"
       ]
     },
     {
@@ -64,7 +78,8 @@
         "WindowsOS",
         "Unix",
         "Git/GitHub",
-        "g++"
+        "g++",
+        "InteliJ IDEA"
       ]
     }
   ],
